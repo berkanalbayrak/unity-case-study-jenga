@@ -8,14 +8,17 @@ This case study addresses the challenge of foundational education by visualizing
 ### Development Time
 This project was diligently completed over a span of 10 hours, reflecting committed efforts in design, development, and testing to ensure the creation of a good project.
 
-## Screenshots
-
-![Educational Jenga Game](insert link here)
 
 ### Features
 - **Grade-Level Stacks**: Constructed based on API data, representing different grade levels and subjects.
-- **Interactive Gameplay**: Incorporates orbit controls for a full engagement and exploration experience.
+
+![ezgif-5-50824b631a](https://github.com/berkanalbayrak/unity-case-study-jenga/assets/40705909/ecc8a0a0-6724-4cd1-be70-438ea5adbc7c)
+
 - **"Test My Stack" Mode**: Demonstrates the critical importance of a strong foundation in diverse educational topics.
+
+![ezgif-5-54910f3e47](https://github.com/berkanalbayrak/unity-case-study-jenga/assets/40705909/b8ae1c17-16c3-4502-8cfa-94853a4320ff)
+
+- **Interactive Gameplay**: Incorporates orbit controls for a full engagement.
 
 ## Demo Video
 
@@ -31,4 +34,4 @@ For a detailed overview and a walkthrough of the development process, watch the 
 - Utilize orbit controls to navigate and examine the concept stacks.
 - Interact with individual blocks to uncover detailed information about each subject concept.
 - Switch between different grade-level stacks to investigate various subject matters.
-- Engage in the "Test My Stack" mode to understand the significance of comprehensive foundational knowledge.
+- Engage in the "Test My Foundation" mode to understand the significance of comprehensive foundational knowledge.

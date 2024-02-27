@@ -8,6 +8,10 @@ This case study addresses the challenge of foundational education by visualizing
 ### Development Time
 This project was diligently completed over a span of 10 hours, reflecting committed efforts in design, development, and testing to ensure the creation of a good project.
 
+## Screenshots
+
+![Educational Jenga Game](insert link here)
+
 ### Features
 - **Grade-Level Stacks**: Constructed based on API data, representing different grade levels and subjects.
 - **Interactive Gameplay**: Incorporates orbit controls for a full engagement and exploration experience.

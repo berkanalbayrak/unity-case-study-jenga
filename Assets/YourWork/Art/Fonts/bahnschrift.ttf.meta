@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 55f9198405e5dc949b3128f1d0f0cf59
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - BahnschriftXD
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 67fdfdf49110ad44792dbe8e06c44a1d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
